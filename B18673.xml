@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the governor, officers and soldiers actually concerned in the defence of London-Derry, in the kingdom of Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18673</idno><idno type="EEBO-CITATION">99885962</idno>
+  <idno type="VID">188591</idno>
+  <idno type="EEBO-PROQUEST">2240896787</idno>
+  
+            <idno type="STC">Wing C1084</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[52]</idno>
+            <idno type="STC">ESTC R225234</idno>
+            <idno type="PROQUEST">ocm99885962</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885962e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188591)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the governor, officers and soldiers actually concerned in the defence of London-Derry, in the kingdom of Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Londonderry (Northern Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:188591:1"/>
+            <head>THE CASE OF THE Governor, Officers and Soldiers actu<g ref="char:EOLhyphen"/>ally concerned in the Defence of London-Derry, in the Kingdom of Ireland.</head>
+            <p>THE Great Service which was performed in <hi>London-Derry,</hi> as well as the Sufferings of that Garison are sufficiently known, and as the Pro<g ref="char:EOLhyphen"/>vidence of God gave Success to their Endeavours, for the defending the remander of the Protestant and <hi>English</hi> Interest in <hi>Ireland;</hi> so the Ho<g ref="char:EOLhyphen"/>nourable House of Commons have express'd their Esteem of that Im<g ref="char:EOLhyphen"/>portant Service in divers Votes, both of Thanks and for Rewards to the Relations of those who had suffered in that Siege.</p>
+            <p>And no doubt but this Honourable House design their Favours to those who had an Actual Hand in the Defence of that Place; and particularly to such who are so far from any Reward for their Service in that Place, that the Governor, Of<g ref="char:EOLhyphen"/>ficers and Soldiers have never had any Pay for all the time of that Siege, tho their Accounts are stated.</p>
+            <p>Upon Colonel <hi>Lundy</hi>'s Abandoning the Town, all the <hi>Aldermen</hi> of the Town left the Place except Three, Two of which had been Officers under Colonel <hi>Lundy,</hi> and refused to Engage against the late King <hi>James,</hi> and his <hi>Irish</hi> Army, during the Siege: the Mayor died before the Siege began, and no Persons pretended to any share in the directing of the Defence of that Town but Colonel <hi>Micchelburne,</hi> who had his present Majesty's Commission, Mr. <hi>Baker,</hi> and Mr. <hi>Walker.</hi>
+            </p>
+            <p>The Inhabitants, and the Neighbours of the Town, made One single Compa<g ref="char:EOLhyphen"/>ny, who were called the Company of <hi>Gunners:</hi> Those were all the Inhabitants, who acted in the Defence of that City: The other Defendants were Persons from other Parts of the Country, who voluntarily came in: The Suburbs, one one part were destroyed in Colonel <hi>Lundy</hi>'s Government.</p>
+            <p>All the Works that were made before the Siege was a Ravling without <hi>Bishops-Gate:</hi> Colonel <hi>Lundy</hi> had Money from <hi>England,</hi> though that Ravling could not cost 100 <hi>l.</hi>
+            </p>
+            <p>The other Out-works were made after the Siege began, and the Soldiers of each Regiment performed that voluntarily with the same alacrity with which they de<g ref="char:EOLhyphen"/>fended the City.</p>
+            <p>As to Provisions, the Inhabitants of <hi>Derry</hi> were sustained by the Country Provi<g ref="char:EOLhyphen"/>sions, as they were defended by the Arms of the Country.</p>
+            <p>As to Arms and Ammunition, if any was provided besides what was taken from the Enemy, and what was sent from <hi>England,</hi> there was five times the proportion left after the Siege was rais'd, of what was before the War began.</p>
+            <p>And as to Cloaths, those fortunate Men, who hazarded themselves for the De<g ref="char:EOLhyphen"/>fence of their Country, were not sollicitous for either Pay or Cloaths, when they every moment ventured their Lives for the Publick; and if any private Persons contracted Debts during the Siege, they have paid the same.</p>
+            <p>And the Mayor and Aldermen of <hi>Derry</hi> have particularly Certified for Colonel <hi>Mitchelburn</hi>'s Regiment under the Common Seal, dated <hi>Febr.</hi> the 2d. 1690.</p>
+            <p>
+               <hi>Therefore it is humbly hoped this Honourable House will own those who were real Actors, and suffer'd in the Defence of</hi> London-derry, <hi>and will please to consider in the first place, those who Acted for the Protestant Religion and the</hi> English <hi>In<g ref="char:EOLhyphen"/>terest in the Defence of</hi> Derry, <hi>without either Pay, Recompence or Reward hitherto. And after they shall be consider'd, then those who left the City, and retired to either</hi> England <hi>or</hi> Scotland, <hi>may Merit the Thoughts of this Honour<g ref="char:EOLhyphen"/>able House.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
